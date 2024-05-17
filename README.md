@@ -2,4 +2,4 @@
 CRUD Operation Project using PHP
 
 
-![screenshot](screenshot.png)
+![screenshot](1.png)
